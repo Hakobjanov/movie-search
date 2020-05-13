@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/movie-search/static/css/main.fc3cdebb.chunk.css",
+    "main.js": "/movie-search/static/js/main.2f4ec12f.chunk.js",
+    "main.js.map": "/movie-search/static/js/main.2f4ec12f.chunk.js.map",
+    "runtime-main.js": "/movie-search/static/js/runtime-main.18c73c9f.js",
+    "runtime-main.js.map": "/movie-search/static/js/runtime-main.18c73c9f.js.map",
+    "static/js/2.1081dc7d.chunk.js": "/movie-search/static/js/2.1081dc7d.chunk.js",
+    "static/js/2.1081dc7d.chunk.js.map": "/movie-search/static/js/2.1081dc7d.chunk.js.map",
+    "index.html": "/movie-search/index.html",
+    "precache-manifest.398b6c335b2f213340c9972b7eae7789.js": "/movie-search/precache-manifest.398b6c335b2f213340c9972b7eae7789.js",
+    "service-worker.js": "/movie-search/service-worker.js",
+    "static/css/main.fc3cdebb.chunk.css.map": "/movie-search/static/css/main.fc3cdebb.chunk.css.map",
+    "static/js/2.1081dc7d.chunk.js.LICENSE.txt": "/movie-search/static/js/2.1081dc7d.chunk.js.LICENSE.txt",
+    "static/media/spinner.gif": "/movie-search/static/media/spinner.a21b6d48.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18c73c9f.js",
+    "static/js/2.1081dc7d.chunk.js",
+    "static/css/main.fc3cdebb.chunk.css",
+    "static/js/main.2f4ec12f.chunk.js"
+  ]
+}
